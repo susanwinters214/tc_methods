@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rosKwE0s2WLe7Gn4agNUUMtAn1O6y9VejUpeS8p2xXadicNKl6BUFkfgdKEx1m7FWAOQGpNWrgykP1JqpmoCOw==",
+  "success": true,
+  "projectFilePath": "C:\\REPOS\\TrueCoders\\tc_Modules\\tc_Modules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RemoteCoder\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

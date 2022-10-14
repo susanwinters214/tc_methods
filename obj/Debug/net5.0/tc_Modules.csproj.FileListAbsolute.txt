@@ -1,0 +1,16 @@
+C:\REPOS\TrueCoders\tc_Modules\bin\Debug\net5.0\tc_Modules.exe
+C:\REPOS\TrueCoders\tc_Modules\bin\Debug\net5.0\tc_Modules.deps.json
+C:\REPOS\TrueCoders\tc_Modules\bin\Debug\net5.0\tc_Modules.runtimeconfig.json
+C:\REPOS\TrueCoders\tc_Modules\bin\Debug\net5.0\tc_Modules.runtimeconfig.dev.json
+C:\REPOS\TrueCoders\tc_Modules\bin\Debug\net5.0\tc_Modules.dll
+C:\REPOS\TrueCoders\tc_Modules\bin\Debug\net5.0\ref\tc_Modules.dll
+C:\REPOS\TrueCoders\tc_Modules\bin\Debug\net5.0\tc_Modules.pdb
+C:\REPOS\TrueCoders\tc_Modules\obj\Debug\net5.0\tc_Modules.csproj.AssemblyReference.cache
+C:\REPOS\TrueCoders\tc_Modules\obj\Debug\net5.0\tc_Modules.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\TrueCoders\tc_Modules\obj\Debug\net5.0\tc_Modules.AssemblyInfoInputs.cache
+C:\REPOS\TrueCoders\tc_Modules\obj\Debug\net5.0\tc_Modules.AssemblyInfo.cs
+C:\REPOS\TrueCoders\tc_Modules\obj\Debug\net5.0\tc_Modules.csproj.CoreCompileInputs.cache
+C:\REPOS\TrueCoders\tc_Modules\obj\Debug\net5.0\tc_Modules.dll
+C:\REPOS\TrueCoders\tc_Modules\obj\Debug\net5.0\ref\tc_Modules.dll
+C:\REPOS\TrueCoders\tc_Modules\obj\Debug\net5.0\tc_Modules.pdb
+C:\REPOS\TrueCoders\tc_Modules\obj\Debug\net5.0\tc_Modules.genruntimeconfig.cache
